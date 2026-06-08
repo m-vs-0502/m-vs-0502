@@ -8,7 +8,7 @@
 
 ⚡ My skills include:<br>
 - Programming - C#, Javascript (in HTML and CSS, and also for ML modelling), and SQL.<br>
-- Databases - OracleDB, MySQL, and MongoDB.<br>
+- Databases - Oracle, MySQL, and MongoDB.<br>
 - Tools - Git, Node-Red, Arduino code, and Jupyter Notebook.
 
  💼 Looking for Internship/Graduate oppurutinities for 2027.
