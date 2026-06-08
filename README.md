@@ -11,7 +11,7 @@
 - Databases - Oracle, MySQL, and MongoDB.<br>
 - Tools - Git, Node-Red, Arduino code, and Jupyter Notebook.
 
- 💼 Looking for Internship/Graduate oppurutinities for 2027.
+ 💼 Looking for Internship/Graduate opportinities for 2027.
 
  ### 📂 Projects
  [Superhero Student Management App](https://github.com/Nuvaran/Superhero-Mangement-System)
