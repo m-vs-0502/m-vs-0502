@@ -23,7 +23,7 @@
  [Website Dashboard for Smart farm engineering project](https://github.com/VoidMeBro/ENGR-422-Project)
       
 ### 📄 CV
-[Access my CV](https://m-vs-0502.github.io/Portfolio/CV.pdf)
+[Access my CV](https://m-vs-0502.github.io/Portfolio)
 
 <!--
 **m-vs-0502/m-vs-0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
